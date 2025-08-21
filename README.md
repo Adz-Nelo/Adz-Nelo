@@ -32,7 +32,9 @@ I’m not just a developer — I’m a **problem-solver, leader, and innovator**
 
 ---
 
-![Metrics](https://metrics.lecoq.io/Adz-Nelo?template=classic&config.timezone=Asia%2FManila)
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=Adz-Nelo&show_icons=true&theme=tokyonight)
 
 ---
 
