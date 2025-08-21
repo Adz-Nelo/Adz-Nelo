@@ -34,7 +34,7 @@ I’m not just a developer — I’m a **problem-solver, leader, and innovator**
 
 ## 📈 Contribution Activity
 
-[![Adz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adz-Nelo&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Adz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adz-Nelo&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
