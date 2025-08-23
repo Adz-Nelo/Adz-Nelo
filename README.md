@@ -10,7 +10,7 @@
 - 🖌️ Skilled in **UI/UX Design**, **Wireframing**, and **Prototyping** with Figma & Photoshop <br/>
 - 🥈 **2nd Place** in Poster Contest – CHMSU Festival <br/>
 - 🥉 **3rd Place** in Pitching Competition – CHMSU Festival <br/>
-- 📜 Recognized as a **Dean's Lister** for academic excellence <br/>
+- 📜 Recognized as a **Dean’s Lister** for academic excellence <br/>
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🔥 My Edge <br/>
-I'm not just a developer — I'm a **problem-solver, leader, and innovator**. Whether it's coding, design, or team management, I bring passion, precision, and creativity to every project I take on.   
+I’m not just a developer — I’m a **problem-solver, leader, and innovator**. Whether it’s coding, design, or team management, I bring passion, precision, and creativity to every project I take on.   
 
 ---
 
@@ -43,33 +43,6 @@ I'm not just a developer — I'm a **problem-solver, leader, and innovator**. Wh
 ![](https://nirzak-streak-stats.vercel.app/?user=Adz-Nelo&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adz-Nelo&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 📈 Additional Analytics
-
-### Commit Activity Timeline
-![](https://github-readme-stats.vercel.app/api/pin/?username=Adz-Nelo&repo=github-readme-stats&theme=nightowl)
-
-### Weekly Development Breakdown
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Adz-Nelo&theme=nightowl)
-
-### Contribution Heatmap
-![](https://ghchart.rshah.org/409ba5/Adz-Nelo)
-
-### Profile Summary Card
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adz-Nelo&theme=github_dark)
-
-### Commits per Language
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adz-Nelo&theme=github_dark)
-
-### Stats by Time
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adz-Nelo&theme=github_dark)
-
-### Productive Time
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adz-Nelo&theme=github_dark)
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adz-Nelo&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
@@ -78,16 +51,6 @@ I'm not just a developer — I'm a **problem-solver, leader, and innovator**. Wh
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adz-Nelo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Adz-Nelo/Adz-Nelo/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📊 Metrics
-![Metrics](https://metrics.lecoq.io/Adz-Nelo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&discussions=1&followup=1&lines=1&traffic=1&posts=1&code=1&activity=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&followup.indepth=false&lines.sections=base&traffic.views=false&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FManila)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adz-Nelo&icon=2&color=0)](https://visitcount.itsvg.in)
