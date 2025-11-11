@@ -19,7 +19,8 @@
 - 🎨 Craft engaging **visuals & designs** that balance creativity and functionality <br/> 
 - 🎮 Explore **Game Development** in C# Unity for fun and creativity <br/> 
 - 📹 Share content on **TikTok** about development & design → [@nelo.code](https://www.tiktok.com/@nelo.code?lang=en) <br/>
-
+- ♟️ Practice and playing strategical **Chess** during my free time <br/>
+- 🦉 Learning and discovering new language such as **Japanese** and **Spannish** in **Duolingo** <br/>
 ---
 
 ## 🔥 My Edge <br/>
