@@ -1,6 +1,6 @@
 # Hi, I'm Adriel 👋  
 
-🎓 Fresh BSIS Graduate | 🌐 Web Developer | 💻 Front-End Developer | 🎨 UI/UX Designer | 📚 Lifelong Learner  
+🎓 Fresh BSIS Graduate | 🌐 Web Developer | 💻 Front-End Developer | 👨🏻‍💻 Software Engineer | 🎨 UI/UX Designer | 📚 Lifelong Learner  
 
 ---
 
