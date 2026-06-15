@@ -21,6 +21,8 @@
 - 📹 Share content on **TikTok** about development & design → [@nelo.code](https://www.tiktok.com/@nelo.code?lang=en) <br/>
 - ♟️ Practice and playing strategical **Chess** during my free time <br/>
 - 🦉 Learning and discovering new language such as **Japanese** and **Spanish** in **Duolingo** <br/>
+- 🤖 Adapting in **AI** tools to supercharge workflows and solve real-world problems <br/>
+- 🎧 Vibe coding when the **creativity** flows
 ---
 
 ## 🔥 My Edge <br/>
